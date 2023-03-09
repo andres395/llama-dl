@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524973156861",
+    "project_id": "expanded-bonbon-378212",
+    "storage_bucket": "expanded-bonbon-378212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524973156861:android:6bb0c4fbe2d44abb975194",
+        "android_client_info": {
+          "package_name": "com.analytics.google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524973156861-p66jamscaeokdpuc7toablugmnlfocfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxxQ9hXNMAAVZ74aVkbUM5r5d_jdSr64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524973156861-p66jamscaeokdpuc7toablugmnlfocfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
